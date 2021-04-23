@@ -8,7 +8,7 @@ Choose the release version, download the *.tar.xz source artifact, and decompres
 
 See [`el-CICD-docs`](https://github.com/elcicd/el-CICD-docs) project for full project documentation.
 
-Copyright (C) 2021 Evan "Hippy" Slatis
+Copyright (C) 2021 Evan "Hippy" Slatis  
 email: hippyod -at- yahoo -dot- com
 
 ## License
