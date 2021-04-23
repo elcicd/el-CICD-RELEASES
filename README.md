@@ -4,7 +4,7 @@ Release repository for the el-CICD project.
 
 This document is part of the el-CICD project, a complete CICD COTS solution for the OKD Container Platform.
 
-Choose the release version, download the *.tar.xz source artifact, and decompress *.tar.xz file for a ready-to-configure version of el-CICD.
+Choose the release version, download the *.tar.gz source artifact, and decompress *.tar.gz file for a ready-to-configure version of el-CICD.
 
 See [`el-CICD-docs`](https://github.com/elcicd/el-CICD-docs) project for full project documentation.
 
