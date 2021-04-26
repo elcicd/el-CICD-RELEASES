@@ -13,6 +13,33 @@ See [`el-CICD-docs`](https://github.com/elcicd/el-CICD-docs) project for full pr
 Copyright (C) 2021 Evan "Hippy" Slatis  
 email: hippyod -at- yahoo -dot- com
 
+## Features
+
+el-CICD is a COTS solution for organizations to configure, quickly stand up, and implement a CICD solution on the OKD Container Platform.  It's number one priority is keep your development resources focused on your business requirements, and your DevOps resources focused on supporting the developers with minimum effort.  el-CICD supports the following features:
+
+* **DevOps Support**
+  * Automated bootstrapping of servers
+  * Automated Jenkins And Jenkins Agent image builds
+  * Automated and extensible framework for setting and rotating credentials
+  * Extensible framework of build and deployment pipelines
+  * Easy to enforce standards within a project or across an organization
+  * Automated and configurable support for creation and management of NFS Persistent Volumes
+  * Automated and configurable support for management of ResourceQuotas per Project and namespace
+  * Configurable set of SDLC environments per installation and, to a lesser degree, per Project
+  * Automated support for deployment, rollback, and roll forward of complete applications in production
+  * Simplified support of applications to more than one cluster
+  * Hotfixing support for deployments in production
+
+* **Development Support**
+  * Automated building, testing, scanning, and deployment for libraries and microservices
+  * Vastly simplified deployment configuration framework for developers: development team focus should remain on business requirements
+  * Sandbox deployments for developers to test
+  * Deployment of encrypted Secrets from Git
+  * Automated branching, tagging, and synchronization of deployment configurations in Git and Docker image repositories
+  * Automated promotion of images across SDLC environments and/or OKD clusters
+  * Roll-forward and roll-back functionality
+  * Incremental and versioned patching of deployments in downstream SDLC environments
+
 ## Contents of Release tar.xz
 
 The following source code and documentation directories are contained in the release tar.xz:
